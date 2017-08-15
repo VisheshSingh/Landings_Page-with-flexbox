@@ -25,3 +25,21 @@ body{
 #showcase h1, #showcase p{
     color: #eee;
 }
+
+#showcase h1{
+    font-size: 50px;
+}
+
+#showcase p{
+    font-size: 20px;
+}
+
+#showcase .button{
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid  #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top:20px;
+}
